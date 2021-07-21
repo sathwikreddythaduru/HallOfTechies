@@ -833,6 +833,17 @@ const data = [
       "https://twitter.com/rs_bhargav",
     ],
   },
+  {
+    name: "Sathwik THaduru",
+    role: "CS UG Student",
+    image: "https://avatars.githubusercontent.com/u/65865881?v=4",
+    skills: ['js', 'python', 'java', 'r'],
+    link: [
+      "https://github.com/sathwikreddythaduru",
+      "https://www.linkedin.com/in/sathwik-reddy-thaduru-1310261b2/",
+      "https://twitter.com/SathwikThad",
+    ],
+  }
 ];
 
 
